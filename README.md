@@ -1,4 +1,4 @@
-# spring webflux - criando um gerenciador de heróis
+# Spring Webflux - Criando um gerenciador de heróis
 
 ## Stack
 
